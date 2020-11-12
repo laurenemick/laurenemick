@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**laurenemick/laurenemick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/laurenemick/">
+  <img align="left" alt="Lauren's Linkedin" width="22px" src="https://www.flaticon.com/free-icon/linkedin_1051333" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My name is Lauren Emick
+- A Full-Stack Developer.
+- My main Tech Stack is React.js, Python 3, and Java.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+
+⭐️ From [Lauren Emick](https://github.com/laurenemick)
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
