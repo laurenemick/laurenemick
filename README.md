@@ -1,5 +1,7 @@
 # Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+
+
 <a href="https://www.linkedin.com/in/laurenemick/" target="_blank">
   <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051282.svg" align="left" alt="Lauren's Linkedin" width="30px" />
 </a>
@@ -15,6 +17,8 @@
 <a href="https://www.pinterest.com/laurenemick_/_saved/" target="_blank">
   <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051278.svg" align="left" alt="Lauren's Pinterest" width="30px" />
 </a>
+
+
 
 
 #### I'm a Full-Stack Developer based in Seattle, Washington. 
