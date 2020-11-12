@@ -23,7 +23,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-laurenemick6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laurenemick6@gmail.com)](mailto:laurenemick6@gmail.com)
 
-&nbsp
+<br/>
 ⭐️   From <a href="https://github.com/laurenemick">Lauren</a>
 
 // Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
