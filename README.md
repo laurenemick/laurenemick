@@ -1,18 +1,18 @@
 # Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
-<a href="https://www.linkedin.com/in/laurenemick/" target="_blank">
+<a href="https://www.linkedin.com/in/laurenemick/">
   <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051282.svg" align="left" alt="Lauren's Linkedin" width="30px" />
 </a>
 
-<a href="" target="_blank">
+<a href="">
   <img src="https://www.flaticon.com/svg/static/icons/svg/1011/1011356.svg" align="left" alt="Lauren's Website" width="30px" />
 </a>
 
-<a href="https://github.com/laurenemick/" target="_blank">
+<a href="https://github.com/laurenemick/">
   <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051275.svg" align="left" alt="Lauren's Linkedin" width="30px" />
 </a>
 
-<a href="https://www.pinterest.com/laurenemick_/_saved/" target="_blank">
+<a href="https://www.pinterest.com/laurenemick_/_saved/">
   <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051278.svg" align="left" alt="Lauren's Pinterest" width="30px" />
 </a>
 
@@ -23,8 +23,8 @@
 - Currently working on AWS Cloud Practitioner Essentials Certification.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
 
-
-⭐️ From <a href="https://github.com/laurenemick">Lauren</a>
+<pre>
+⭐️  From <a href="https://github.com/laurenemick">Lauren</a>
 
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-
+</pre>
