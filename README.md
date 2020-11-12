@@ -1,9 +1,4 @@
-# Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-#### I'm a Full-Stack Developer based in Seattle, Washington. 
-- My main Tech Stack is React.js, Python 3, and Java. 
-- Currently working on AWS Cloud Practitioner Essentials Certification.
-- Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
+# Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
 <a href="https://www.linkedin.com/in/laurenemick/" target="_blank">
   <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051282.svg" align="left" alt="Lauren's Linkedin" width="30px" />
@@ -22,11 +17,12 @@
 </a>
 
 <br/>
+#### I'm a Full-Stack Developer based in Seattle, Washington. 
+- My main Tech Stack is React.js, Python 3, and Java. 
+- Currently working on AWS Cloud Practitioner Essentials Certification.
+- Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
 
-[![Mail Badge](https://img.shields.io/badge/-laurenemick6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laurenemick6@gmail.com)](mailto:laurenemick6@gmail.com)
-
-<br/>
 ⭐️   From <a href="https://github.com/laurenemick">Lauren</a>
 
-// Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
