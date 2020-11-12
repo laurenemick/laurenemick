@@ -21,6 +21,7 @@
   <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051278.svg" align="left" alt="Lauren's Pinterest" width="30px" />
 </a>
 
+<br/>
 [![Mail Badge](https://img.shields.io/badge/-laurenemick6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laurenemick6@gmail.com)](mailto:laurenemick6@gmail.com)
 
 <br/>
