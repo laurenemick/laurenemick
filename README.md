@@ -6,22 +6,23 @@
 - Currently working on AWS Cloud Practitioner Essentials Certification.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities as well.
 
-#### Find me around the web 🌎:
-<a href="https://www.linkedin.com/in/laurenemick/" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051282.svg" align="left" alt="Lauren's Linkedin" width="30px" />
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/laurenemick/" target="_blank">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051282.svg" align="left" alt="Lauren's Linkedin" width="30px" />
+  </a>
 
-<a href="" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/1011/1011356.svg" align="left" alt="Lauren's Website" width="30px" />
-</a>
+  <a href="" target="_blank">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1011/1011356.svg" align="left" alt="Lauren's Website" width="30px" />
+  </a>
 
-<a href="https://github.com/laurenemick/" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051275.svg" align="left" alt="Lauren's Linkedin" width="30px" />
-</a>
+  <a href="https://github.com/laurenemick/" target="_blank">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051275.svg" align="left" alt="Lauren's Linkedin" width="30px" />
+  </a>
 
-<a href="https://www.pinterest.com/laurenemick_/_saved/" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051278.svg" align="left" alt="Lauren's Pinterest" width="30px" />
-</a>
+  <a href="https://www.pinterest.com/laurenemick_/_saved/" target="_blank">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051278.svg" align="left" alt="Lauren's Pinterest" width="30px" />
+  </a>
+</div>
 
 <br />
 ⭐️  From <a href="https://github.com/laurenemick">Lauren Emick</a>
