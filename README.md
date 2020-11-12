@@ -1,5 +1,12 @@
-### Hey there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+---
 
+#### I'm a Full-Stack Developer based in Seattle, Washington. 
+- My main Tech Stack is React.js, Python 3, and Java. 
+- Currently working on AWS Cloud Practitioner Essentials Certification.
+- Seeking full-time employment in the greater Seattle area or remotely.
+
+#### Find me around the web 🌎:
 <a href="https://www.linkedin.com/in/laurenemick/" target="_blank">
   <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051282.svg" align="left" alt="Lauren's Linkedin" width="30px" />
 </a>
@@ -16,13 +23,6 @@
   <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051278.svg" align="left" alt="Lauren's Pinterest" width="30px" />
 </a>
 
-<br />
-<img align="right" alt="GIF" src="https://giphy.com/gifs/9J1hoXgDv5cFbP67Xo" />
-
-### My name is Lauren Emick
-- A Full-Stack Developer.
-- My main Tech Stack is React.js, Python 3, and Java.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ⭐️ From [Lauren Emick](https://github.com/laurenemick)
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div style={{color: '#C0C0C0'}}>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
