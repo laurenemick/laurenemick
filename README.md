@@ -23,7 +23,8 @@
 - Currently working on AWS Cloud Practitioner Essentials Certification.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
 
-⭐️   From <a href="https://github.com/laurenemick">Lauren</a>
+
+⭐️ From <a href="https://github.com/laurenemick">Lauren</a>
 
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
