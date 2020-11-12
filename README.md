@@ -1,5 +1,5 @@
 # Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
+<pre>
 #### I'm a Full-Stack Developer based in Seattle, Washington. 
 - My main Tech Stack is React.js, Python 3, and Java. 
 - Currently working on AWS Cloud Practitioner Essentials Certification.
@@ -26,3 +26,4 @@
 ⭐️   From <a href="https://github.com/laurenemick">Lauren</a>
 
 // Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+</pre>
