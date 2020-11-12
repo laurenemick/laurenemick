@@ -24,5 +24,6 @@
 </div>
 
 <br />
+<br />
 ⭐️  From <a href="https://github.com/laurenemick">Lauren Emick</a>
-<div style="color:grey;">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div style="color:pink;">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
