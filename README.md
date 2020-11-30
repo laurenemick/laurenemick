@@ -19,7 +19,7 @@
 <br/>
 
 #### I'm a Full-Stack Developer based in Seattle, Washington. 
-- My main Tech Stack is React.js, Python 3, and Java. 
+- My main tech stack is React.js, Python 3, and Java. 
 - Currently working on AWS Cloud Practitioner Essentials Certification.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
 
