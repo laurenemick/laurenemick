@@ -23,6 +23,10 @@
 - Currently working on AWS Cloud Practitioner Essentials Certification.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
 
-![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=React&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lang-Java-informational?style=plastic&logo=Java&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lang-Python-informational?style=plastic&logo=Python&logoColor=white&color=violet)
+![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=React&logoColor=white&color=violet) ![](https://img.shields.io/badge/FW-Redux-informational?style=plastic&logo=Redux&logoColor=white&color=violet) 
+
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=plastic&logo=PostgreSQL&logoColor=white&color=violet) 
+
+![](https://img.shields.io/badge/Lang-Java-informational?style=plastic&logo=Java&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lang-Python-informational?style=plastic&logo=Python&logoColor=white&color=violet)
 
 You are visitor:![Visitor Count](https://profile-counter.glitch.me/laurenemick/count.svg)!
