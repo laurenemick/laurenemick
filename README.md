@@ -24,4 +24,5 @@
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
 
 
-You are visitor ![Visitor Count](https://profile-counter.glitch.me/laurenemick/count.svg)!
+You are visitor:
+![Visitor Count](https://profile-counter.glitch.me/laurenemick/count.svg)!
