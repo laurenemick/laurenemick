@@ -1,3 +1,5 @@
+![Welcome to Lauren Emick's GitHub](https://images.unsplash.com/photo-1503455637927-730bce8583c0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8ZnVuJTIwYmFja2dyb3VuZCUyMGJhbm5lcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60 "Welcome to Lauren Emick's GitHub")
+
 # Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
 <a href="https://www.linkedin.com/in/laurenemick/">
@@ -30,12 +32,5 @@
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=plastic&logo=IntelliJ%20IDEA&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=plastic&logo=Visual%20Studio%20Code&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-Git-informational?style=plastic&logo=Git&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-GitHub-informational?style=plastic&logo=GitHub&logoColor=white&color=4361ee) 
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=plastic&logo=Postman&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-Vercel-informational?style=plastic&logo=Vercel&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-Netlify-informational?style=plastic&logo=Netlify&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-Heroku-informational?style=plastic&logo=Heroku&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-AWS%20Amplify-informational?style=plastic&logo=Amazon%20Web%20Services&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/SD-RESTful%20APIs-informational?style=plastic&logo=none&logoColor=white&color=4895ef) 
 ![](https://img.shields.io/badge/SD-AGILE%20Development-informational?style=plastic&logo=none&logoColor=white&color=4895ef) ![](https://img.shields.io/badge/SD-Object%20Oriented%20Programming-informational?style=plastic&logo=none&logoColor=white&color=4895ef)
-
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![Lauren Emick Github Stats](https://readme-stats.laurenemick.com/api?username=laurenemick&show_icons=true&count_private=true)](https://github.com/laurenemick/github-readme-stats) [![Top Language](https://readme-stats.laurenemick.com/api/top-langs?username=laurenemick&layout=compact)](https://github.com/laurenemick/github-readme-stats)
-
-</details>
 
 You are visitor:<br/>![Visitor Count](https://profile-counter.glitch.me/laurenemick/count.svg)!
