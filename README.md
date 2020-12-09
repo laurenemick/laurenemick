@@ -23,7 +23,7 @@
 - Currently working on AWS Cloud Practitioner Essentials Certification.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
 
-![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=React&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lib-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lib-CSS-informational?style=plastic&logo=CSS&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lib-HTML5-informational?style=plastic&logo=HTML5&logoColor=white&color=violet) 
+![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=React&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lib-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lib-CSS-informational?style=plastic&logo=CSS&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lib-HTML5-informational?style=plastic&logo=HTML5&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lib-Material%20UI-informational?style=plastic&logo=MaterialUI&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lib-Ant%20Design-informational?style=plastic&logo=AntDesign&logoColor=white&color=violet)
 
 ![](https://img.shields.io/badge/FW-Redux-informational?style=plastic&logo=Redux&logoColor=white&color=violet) ![](https://img.shields.io/badge/FW-Spring-informational?style=plastic&logo=Spring&logoColor=white&color=violet) ![](https://img.shields.io/badge/FW-LESS-informational?style=plastic&logo=LESS&logoColor=white&color=violet) 
 
