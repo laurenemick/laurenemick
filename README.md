@@ -23,9 +23,9 @@
 - Currently working on AWS Cloud Practitioner Essentials Certification.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
 
-![](https://img.shields.io/badge/Lang-Java-informational?style=plastic&logo=Java&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lang-Python-informational?style=plastic&logo=Python&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lang-CSS-informational?style=plastic&logo=CSS%20Wizardry&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lang-HTML5-informational?style=plastic&logo=HTML5&logoColor=white&color=violet)
+![](https://img.shields.io/badge/Lang-Java-informational?style=plastic&logo=Java&logoColor=white&color=#f72585) ![](https://img.shields.io/badge/Lang-Python-informational?style=plastic&logo=Python&logoColor=white&color=#f72585) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=#f72585) ![](https://img.shields.io/badge/Lang-CSS-informational?style=plastic&logo=CSS%20Wizardry&logoColor=white&color=#f72585) ![](https://img.shields.io/badge/Lang-HTML5-informational?style=plastic&logo=HTML5&logoColor=white&color=#f72585)
 
-![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=React&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lib-Material%20UI-informational?style=plastic&logo=Material%20UI&logoColor=white&color=violet) ![](https://img.shields.io/badge/Lib-Ant%20Design-informational?style=plastic&logo=Ant%20Design&logoColor=white&color=violet)
+![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=React&logoColor=white&color=#7209b7) ![](https://img.shields.io/badge/Lib-Material%20UI-informational?style=plastic&logo=Material%20UI&logoColor=white&color=#7209b7) ![](https://img.shields.io/badge/Lib-Ant%20Design-informational?style=plastic&logo=Ant%20Design&logoColor=white&color=#7209b7)
 
 ![](https://img.shields.io/badge/FW-Redux-informational?style=plastic&logo=Redux&logoColor=white&color=violet) ![](https://img.shields.io/badge/FW-Spring-informational?style=plastic&logo=Spring&logoColor=white&color=violet) ![](https://img.shields.io/badge/FW-LESS-informational?style=plastic&logo=less&logoColor=white&color=violet) 
 
@@ -37,4 +37,4 @@
 
 ![](https://img.shields.io/badge/SD-RESTful%20APIs-informational?style=plastic&logo=none&logoColor=white&color=violet) ![](https://img.shields.io/badge/SD-AGILE%20Development-informational?style=plastic&logo=none&logoColor=white&color=violet) ![](https://img.shields.io/badge/SD-Object%20Oriented%20Programming-informational?style=plastic&logo=none&logoColor=white&color=violet)
 
-You are visitor:![Visitor Count](https://profile-counter.glitch.me/laurenemick/count.svg)!
+You are visitor:<br/>![Visitor Count](https://profile-counter.glitch.me/laurenemick/count.svg)!
