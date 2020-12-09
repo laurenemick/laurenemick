@@ -2,27 +2,23 @@
   <img align="center" src="https://images.unsplash.com/photo-1503480207415-fdddcc21d5fc?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8&auto=format&fit=crop&w=800&q=60" width=2000 height=150 />
 </div>
 
-# Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
+# Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" /> <div>
+  <a href="https://www.linkedin.com/in/laurenemick/">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051282.svg" align="left" alt="Lauren's Linkedin" width="30px" />
+  </a>
 
-<a href="https://www.linkedin.com/in/laurenemick/">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051282.svg" align="left" alt="Lauren's Linkedin" width="30px" />
-</a>
+  <a href="">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1011/1011356.svg" align="left" alt="Lauren's Website" width="30px" />
+  </a>
 
-<a href="">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/1011/1011356.svg" align="left" alt="Lauren's Website" width="30px" />
-</a>
+  <a href="https://github.com/laurenemick/">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051275.svg" align="left" alt="Lauren's Linkedin" width="30px" />
+  </a>
 
-<a href="https://github.com/laurenemick/">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051275.svg" align="left" alt="Lauren's Linkedin" width="30px" />
-</a>
-
-<a href="https://www.pinterest.com/laurenemick_/_saved/">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051278.svg" align="left" alt="Lauren's Pinterest" width="30px" />
-</a>
-
-<br/>
-
-## About Me
+  <a href="https://www.pinterest.com/laurenemick_/_saved/">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051278.svg" align="left" alt="Lauren's Pinterest" width="30px" />
+  </a>
+</div>
 - I'm a Full-Stack Developer based in Seattle, Washington. 
 - My main tech stack is React, Python, and Java. 
 - Currently working on AWS Cloud Practitioner Essentials Certification.
