@@ -21,7 +21,6 @@
 </a>
 
 <br/>
-<br/>
 
 ## About Me
 - I'm a Full-Stack Developer based in Seattle, Washington. 
@@ -31,7 +30,7 @@
 
 <br/>
 
-## Tech/Software Stack
+## Tools and Technologies
 ![](https://img.shields.io/badge/Lang-Java-informational?style=plastic&logo=Java&logoColor=white&color=f72585) ![](https://img.shields.io/badge/Lang-Python-informational?style=plastic&logo=Python&logoColor=white&color=f72585) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=f72585) 
 ![](https://img.shields.io/badge/Lang-CSS-informational?style=plastic&logo=CSS%20Wizardry&logoColor=white&color=f72585) ![](https://img.shields.io/badge/Lang-HTML5-informational?style=plastic&logo=HTML5&logoColor=white&color=f72585) ![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=React&logoColor=white&color=b5179e) 
 ![](https://img.shields.io/badge/Lib-Material%20UI-informational?style=plastic&logo=Material%20UI&logoColor=white&color=b5179e) ![](https://img.shields.io/badge/Lib-Ant%20Design-informational?style=plastic&logo=Ant%20Design&logoColor=white&color=b5179e) ![](https://img.shields.io/badge/FW-Redux-informational?style=plastic&logo=Redux&logoColor=white&color=7209b7) 
