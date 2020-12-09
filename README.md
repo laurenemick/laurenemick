@@ -25,4 +25,6 @@
 
 ![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=React&logoColor=white&color=success)
 
+![](https://img.shields.io/static/v1?label=React&message=React&color=violet)
+
 You are visitor:![Visitor Count](https://profile-counter.glitch.me/laurenemick/count.svg)!
