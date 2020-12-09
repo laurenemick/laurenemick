@@ -1,4 +1,6 @@
-![Welcome to Lauren Emick's GitHub](https://images.unsplash.com/photo-1503455637927-730bce8583c0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8ZnVuJTIwYmFja2dyb3VuZCUyMGJhbm5lcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60 "Welcome to Lauren Emick's GitHub")
+<div>
+  <img align="center" src="https://images.unsplash.com/photo-1503455637927-730bce8583c0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8ZnVuJTIwYmFja2dyb3VuZCUyMGJhbm5lcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60" />
+</div>
 
 # Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
