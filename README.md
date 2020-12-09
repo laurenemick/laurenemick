@@ -21,13 +21,12 @@
 </a>
 
 <br />
+<br />
 
 - I'm a Full-Stack Developer based in Seattle, Washington. 
 - My main tech stack is React, Python, and Java. 
 - Currently working on AWS Cloud Practitioner Essentials Certification.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
-
-<br/>
 
 ## Tools and Technologies
 ![](https://img.shields.io/badge/Lang-Java-informational?style=plastic&logo=Java&logoColor=white&color=f72585) ![](https://img.shields.io/badge/Lang-Python-informational?style=plastic&logo=Python&logoColor=white&color=f72585) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=f72585) 
