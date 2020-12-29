@@ -1,7 +1,3 @@
-<div>
-  <img align="center" src="https://images.unsplash.com/photo-1503480207415-fdddcc21d5fc?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8&auto=format&fit=crop&w=800&q=60" width=2000 height=150 />
-</div>
-
 # Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
 <a href="https://www.linkedin.com/in/laurenemick/">
@@ -44,9 +40,3 @@
 ![](https://img.shields.io/badge/Tool-Git-informational?style=plastic&logo=Git&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-GitHub-informational?style=plastic&logo=GitHub&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-Postman-informational?style=plastic&logo=Postman&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-Vercel-informational?style=plastic&logo=Vercel&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-Netlify-informational?style=plastic&logo=Netlify&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-Heroku-informational?style=plastic&logo=Heroku&logoColor=white&color=4361ee) ![](https://img.shields.io/badge/Tool-AWS%20Amplify-informational?style=plastic&logo=Amazon%20Web%20Services&logoColor=white&color=4361ee) 
 <br />
 ![](https://img.shields.io/badge/SD-RESTful%20APIs-informational?style=plastic&logo=none&logoColor=white&color=4895ef) ![](https://img.shields.io/badge/SD-AGILE%20Development-informational?style=plastic&logo=none&logoColor=white&color=4895ef) ![](https://img.shields.io/badge/SD-Object%20Oriented%20Programming-informational?style=plastic&logo=none&logoColor=white&color=4895ef)
-
-<br />
-
-<div>
-  <img align="center" src="https://images.unsplash.com/photo-1503480207415-fdddcc21d5fc?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8&auto=format&fit=crop&w=800&q=60" width=2000 height=150 />
-</div>
