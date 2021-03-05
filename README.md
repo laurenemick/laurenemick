@@ -4,7 +4,7 @@
   <img src="https://www.flaticon.com/svg/static/icons/svg/1051/1051282.svg" align="left" alt="Lauren's Linkedin" width="30px" />
 </a>
 
-<a href="">
+<a href="https://laurenemick.tech/">
   <img src="https://www.flaticon.com/svg/static/icons/svg/1011/1011356.svg" align="left" alt="Lauren's Website" width="30px" />
 </a>
 
