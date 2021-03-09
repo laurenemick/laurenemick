@@ -1,11 +1,9 @@
 # Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
-<br />
-<br />
-
 - I'm a Full-Stack Developer based in Seattle, Washington. 
 - My main tech stack is React, Python, and Java. 
 - Currently working on AWS Cloud Practitioner Essentials Certification.
+- Learning Ruby on Rails.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
 
 ## Tools and Technologies
