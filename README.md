@@ -2,8 +2,7 @@
 
 - I'm a Full-Stack Developer based in Seattle, Washington. 
 - My main tech stack is React, Python, and Java. 
-- Currently working on AWS Cloud Practitioner Essentials Certification.
-- Learning Ruby on Rails.
+- Currently learning Ruby on Rails and Flask.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
 
 ## Tools and Technologies
