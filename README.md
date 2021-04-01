@@ -1,6 +1,6 @@
 # Hi, I'm Lauren <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
-- I'm a Full-Stack Developer based in Seattle, Washington. 
+- I'm a Full Stack Engineer based in Seattle, Washington. 
 - My main tech stack is React, Python, and Java. 
 - Currently learning Ruby on Rails and Flask.
 - Seeking full-time employment in the greater Seattle area. Open to remote opportunities.
